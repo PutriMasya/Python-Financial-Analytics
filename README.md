@@ -4,10 +4,10 @@ This project involves financial data analysis using Python, focusing on analyzin
 ## How to Run
 1. Clone the repository:  
    `git clone https://github.com/PutriMasya/Python-Financial-Analytics.git`
-3. Install the required libraries:  
+2. Install the required libraries:  
    `pip install -r requirements.txt`
-4. The dataset is already included in the `dataset/` folder.
-5. Open the Google Colab link and run the cells.
+3. The dataset is already included in the `dataset/` folder.
+4. Open the Google Colab link and run the cells.
  
 You can run this project directly in Google Colab
 link google colab : https://bit.ly/Finance_Visualization
