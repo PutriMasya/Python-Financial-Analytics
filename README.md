@@ -10,5 +10,5 @@ This project involves financial data analysis using Python, focusing on analyzin
 5. Open the Google Colab link and run the cells.
  
 You can run this project directly in Google Colab
-link gogle colab : (https://bit.ly/Finance_Visualization)
+link google colab : (https://bit.ly/Finance_Visualization)
 
